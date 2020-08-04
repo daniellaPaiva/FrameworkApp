@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FrameworkApp</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_posts">Posts</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_todo_list">Todo List</string>
+    <string name="failure_connection">Erro ao carregar, tente novamente</string>
+</resources>
